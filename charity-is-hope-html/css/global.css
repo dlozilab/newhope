@@ -10622,3 +10622,7 @@ body .columns_wrap {
 body .mc4wp-form-fields input[type="submit"] {
   margin-left: 0.5em;
 }
+
+.sc_services_item_content {
+  display: flex;
+}
