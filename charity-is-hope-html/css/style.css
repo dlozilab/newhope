@@ -2670,7 +2670,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 }
 .top_panel_wrap .logo_fixed {
 	display:none;
-	max-height:42px;
+	max-height:20px;
 	width:auto;
 }
 .top_panel_fixed .top_panel_wrap .logo_fixed {

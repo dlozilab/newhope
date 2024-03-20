@@ -10593,7 +10593,7 @@ body.portfolio-2 .page_content_wrap .content_wrap.wrapper {
   .post_item .post_descr p:nth-child(2) {
     display: none;
   }
-}
+
 .woocommerce .mode_buttons, .woocommerce-page .mode_buttons {
   display: none;
 }
