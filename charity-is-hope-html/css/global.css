@@ -10622,3 +10622,14 @@ body .columns_wrap {
 body .mc4wp-form-fields input[type="submit"] {
   margin-left: 0.5em;
 }
+
+.sc_team_item_avatar{
+  border-radius: 50%;
+  width: 220px;
+  height: 220px;
+  overflow: hidden;
+}
+.sc_services_item_content {
+  display: flex;
+}
+
